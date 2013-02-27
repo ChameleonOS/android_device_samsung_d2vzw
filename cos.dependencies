@@ -1,23 +1,35 @@
 [
   {
+    "project": "Cyanogenmod",
     "repository": "android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common"
   },
   {
+    "project": "Cyanogenmod",
     "repository": "android_device_samsung_msm8960-common",
     "target_path": "device/samsung/msm8960-common"
   },
   {
+    "project": "Cyanogenmod",
     "repository": "android_device_samsung_d2-common",
     "target_path": "device/samsung/d2-common"
   },
   {
+    "project": "ChameleonOS",
     "repository": "android_kernel_samsung_d2",
-    "target_path": "kernel/samsung/d2"
+    "target_path": "kernel/samsung/d2",
+    "branch": "jellybean"
   },
   {
+    "project": "Cyanogenmod",
     "repository": "android_external_kexec-tools",
     "target_path": "external/kexec-tools"
+  },
+  {
+    "project": "TheMuppets",
+    "repository": "proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "branch": "jellybean"
   }
 ]
 
