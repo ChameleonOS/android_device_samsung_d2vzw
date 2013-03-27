@@ -18,10 +18,10 @@
     "branch": "cm-10.1"
   },
   {
-    "project": "ChameleonOS",
+    "project": "CyanogenMod",
     "repository": "android_kernel_samsung_d2",
     "target_path": "kernel/samsung/d2",
-    "branch": "jellybean-mr1"
+    "branch": "cm-10.1"
   },
   {
     "project": "TheMuppets",

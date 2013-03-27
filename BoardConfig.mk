@@ -27,5 +27,5 @@
 -include vendor/samsung/d2vzw/BoardConfigVendor.mk
 
 # Kernel
-TARGET_KERNEL_CONFIG        := d2vzw_defconfig
+TARGET_KERNEL_CONFIG        := cyanogen_d2vzw_defconfig
 
