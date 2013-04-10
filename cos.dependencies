@@ -24,10 +24,16 @@
     "branch": "cm-10.1"
   },
   {
-    "project": "TheMuppets",
-    "repository": "proprietary_vendor_samsung",
-    "target_path": "vendor/samsung",
-    "branch": "cm-10.1"
+    "project": "ChameleonOS",
+    "repository": "android_vendor_samsung_d2vzw",
+    "target_path": "vendor/samsung/d2vzw",
+    "branch": "jellybean-mr1"
+  },
+  {
+    "project": "ChameleonOS",
+    "repository": "android_vendor_samsung_d2-common",
+    "target_path": "vendor/samsung/d2-common",
+    "branch": "jellybean-mr1"
   }
 ]
 
