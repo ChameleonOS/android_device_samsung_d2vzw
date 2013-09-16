@@ -26,6 +26,9 @@
 # inherit from the proprietary version
 -include vendor/samsung/d2vzw/BoardConfigVendor.mk
 
+# Assert
+TARGET_OTA_ASSERT_DEVICE := d2vzw
+
 # Kernel
 TARGET_KERNEL_CONFIG        := cyanogen_d2vzw_defconfig
 
